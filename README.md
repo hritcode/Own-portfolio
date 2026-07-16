@@ -1,6 +1,8 @@
 # 🚀 Hrit Panja — Developer Portfolio
 
 Portfolio link:- https://endearing-manatee-742ef8.netlify.app/
+Team Nexora:- https://remarkable-profiterole-7bb65c.netlify.app/
+
 
 Welcome to my personal developer portfolio website.
 
@@ -13,6 +15,8 @@ This portfolio showcases my skills, projects, experience, interests, and GitHub 
 Hi, I'm **Hrit Panja**.
 
 I am a passionate Computer Science and Engineering student interested in programming, web development, artificial intelligence, and technology.
+
+Founder of Team Nexora
 
 I enjoy building creative and practical projects that solve real-world problems.
 
