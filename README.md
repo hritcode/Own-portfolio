@@ -1,5 +1,7 @@
 # 🚀 Hrit Panja — Developer Portfolio
 
+Portfolio link:- https://endearing-manatee-742ef8.netlify.app/
+
 Welcome to my personal developer portfolio website.
 
 This portfolio showcases my skills, projects, experience, interests, and GitHub activity as a Computer Science and Engineering student and developer.
